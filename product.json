@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Mouse",
+        "price":1000
+    },
+    {
+        "id":2,
+        "name":"Keyboard",
+        "price":2000
+    },
+    {
+        "id":3,
+        "name":"Headphones",
+        "price":2500
+    },
+    {
+        "id":4,
+        "name":"Airpods",
+        "price":4000
+    },
+    {
+        "id":5,
+        "name":"Gaming Mouse",
+        "price":6000
+    }
+]
